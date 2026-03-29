@@ -28,6 +28,4 @@ modelos de clasificación y se evaluó su exactitud.
 ---
 
 ## Autor
-* **Besaid** - [BesaidGarden](https://github.com/BesaidGarden)
-de características. A partir del análisis de los histogramas LBP generados, se compararon distintos
-modelos de clasificación y se evaluó su exactitud.
+* BesaidGarden
