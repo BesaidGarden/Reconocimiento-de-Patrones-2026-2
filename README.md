@@ -1,0 +1,1 @@
+# Reconocimiento-de-Patrones-2026-2
